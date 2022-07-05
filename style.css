@@ -1,0 +1,42 @@
+
+.heading{
+ width: 1200px;
+ height: 800px;
+ background-image: url(images/donation1.jpg);
+ background-repeat: no-repeat;
+ background-size: 100%;
+ 
+}
+.deco{
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    text-align: center;
+color: white;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+position: relative;
+line-height: 2px;
+}
+.texto{
+    font-size: medium;
+    justify-content: center;
+flex-direction: column;
+align-items: center;
+color: rgb(233, 158, 96);
+line-height: 100px;
+
+
+}
+.anc-deco{
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    box-sizing: border-box;
+    box-shadow: 10px;
+    background-color: orangered;
+    border-radius: 10px;
+
+}
